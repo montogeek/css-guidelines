@@ -12,3 +12,9 @@ CodeGuide
 http://codeguide.co/
 
 ## Posts
+
+
+## Examples
+
+GitHub CSS Guidelines
+https://github.com/styleguide/css
