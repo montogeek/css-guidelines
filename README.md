@@ -8,4 +8,7 @@ Resources, posts, talks and tools to create CSS Guidelines
 CSS Guidelines - High-level advice and guidelines for writing sane, manageable, scalable CSS
 http://cssguidelin.es/
 
+CodeGuide
+http://codeguide.co/
+
 ## Posts
