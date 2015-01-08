@@ -23,6 +23,9 @@ http://sideproject.io/front-end-and-ui-style-guides/
 Modern Style Guides for Web Design and Development - Morten Rand-Hendriksen
 http://mediatemple.net/blog/tips/modern-style-guides-for-web-design-and-development/
 
+Styleguide Driven Development - Jordan Lewis
+http://webuild.envato.com/blog/styleguide-driven-development/
+
 ## Tools
 
 Pattern Lab
