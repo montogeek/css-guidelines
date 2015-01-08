@@ -42,6 +42,8 @@ http://codeguide.co/
 Google HTML/CSS Style Guide
 http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
 
+Sass Guidelines
+http://sass-guidelin.es/
 
 ## Examples
 
