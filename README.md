@@ -1,5 +1,5 @@
-# css-guidelines
-Resources, posts, talks and tools to create CSS Guidelines
+# Guidelines
+Resources, posts, talks and tools to create CSS/Frontend Guidelines/Systems
 
 
 
