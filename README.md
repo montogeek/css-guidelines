@@ -53,3 +53,10 @@ https://gimmebar.com/collection/4ecd439c2f0aaad734000022/front-end-styleguides
 
 Starbucks Style Guide
 http://www.starbucks.com/static/reference/styleguide/
+
+
+## License
+
+Licensed under the MIT license.
+
+Copyright (c) 2015 @montogeek.
