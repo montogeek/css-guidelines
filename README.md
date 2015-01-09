@@ -59,6 +59,8 @@ https://gimmebar.com/collection/4ecd439c2f0aaad734000022/front-end-styleguides
 Starbucks Style Guide
 http://www.starbucks.com/static/reference/styleguide/
 
+FutureLearn Pattern Library
+https://www.futurelearn.com/pattern-library/
 
 ## License
 
