@@ -65,6 +65,9 @@ http://www.starbucks.com/static/reference/styleguide/
 FutureLearn Pattern Library
 https://www.futurelearn.com/pattern-library/
 
+Yelp Guidelines
+http://www.yelp.com/styleguide
+
 ## License
 
 Licensed under the MIT license.
