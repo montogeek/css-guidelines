@@ -68,6 +68,12 @@ https://www.futurelearn.com/pattern-library/
 Yelp Guideline
 http://www.yelp.com/styleguide
 
+Lonely Planet Style Guide
+http://rizzo.lonelyplanet.com/styleguide/
+
+SalesForce Style Guide
+http://sfdc-styleguide.herokuapp.com/
+
 ## License
 
 Licensed under the MIT license.
