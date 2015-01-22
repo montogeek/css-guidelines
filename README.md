@@ -34,6 +34,9 @@ http://webuild.envato.com/blog/styleguide-driven-development/
 Pattern Lab
 http://patternlab.io/
 
+S5C Style Guide Generator
+https://github.com/SC5/sc5-styleguide
+
 ## Guides
 
 CSS Guidelines - High-level advice and guidelines for writing sane, manageable, scalable CSS
